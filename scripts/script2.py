@@ -1,1 +1,1 @@
-print('script2')
+print('I like conflicts 2')
